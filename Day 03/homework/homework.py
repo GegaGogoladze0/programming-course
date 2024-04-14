@@ -1,0 +1,5 @@
+print ("gega,")
+print("gabrieli")
+print ("dimitri")
+print("mimi")
+print("elene")
